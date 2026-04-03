@@ -144,6 +144,11 @@ Note: urllib comes pre-installed with Python, so you don’t need to install it 
 - Verify detection  
 
 ---
+<img width="1190" height="905" alt="Screenshot 2025-04-27 195736" src="https://github.com/user-attachments/assets/b89c94d5-8453-4d9f-b389-7e48606cad04" />
+<img width="1191" height="953" alt="Screenshot 2025-04-27 195628" src="https://github.com/user-attachments/assets/2d9058ad-5435-4315-8815-61fdde35621f" />
+<img width="1189" height="941" alt="Screenshot 2025-04-27 195536" src="https://github.com/user-attachments/assets/5d9ebbb6-aebd-4503-a743-d17a875dd5d5" />
+<img width="1183" height="942" alt="Screenshot 2025-04-27 195438" src="https://github.com/user-attachments/assets/602e85d6-a4c6-4461-9c81-6cb25741e13f" />
+
 
 ## 🛠️ Troubleshooting  
 
